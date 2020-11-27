@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopDependencyInjectionSample.UI", "DesktopDependencyInjectionSample.UI\DesktopDependencyInjectionSample.UI.csproj", "{1ADD5860-5578-473A-BD16-0AB744773498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADD5860-5578-473A-BD16-0AB744773498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADD5860-5578-473A-BD16-0AB744773498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADD5860-5578-473A-BD16-0AB744773498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADD5860-5578-473A-BD16-0AB744773498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F37BB4A1-B559-4BF9-A2AD-C6C0132EE814}
+	EndGlobalSection
+EndGlobal
